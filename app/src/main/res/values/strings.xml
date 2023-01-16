@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Restaurants</string>
+    <string name="restaurant_name">Restaurant Name</string>
+    <string name="location">Location</string>
+    <string name="rating">5.0</string>
+    <string name="description">Description</string>
+    <string name="review">Review</string>
+    <string name="write_your_review_here">Write your review here..</string>
+    <string name="user">Jamal</string>
+    <string name="comment">I think this restaurant is good</string>
+    <string name="categories">categories</string>
+    <string name="tab_1">Desc</string>
+    <string name="tab_2">Menus</string>
+    <string name="tab_3">Reviews</string>
+    <string name="menu_name">Foods Drinks</string>
+    <string name="header_title">D Restaurants</string>
+    <string name="header_subtitle">Get to know more about our restaurants!</string>
+    <string name="review_form_hint">What you think about this restaurant?</string>
+    <string name="submit">Submit</string>
+    <string name="your_name">Your Name</string>
+    <string name="no_review_yet">No Review Yet</string>
+    <string name="empty_desc">Hit the orange button below to write your review</string>
+    <string name="search_restaurant_name">Search Restaurant Name or Categories</string>
+    <string name="no_results">No Results</string>
+    <string name="empty_results_subtitle">Try to find another restaurants or categories</string>
+</resources>
